@@ -6,6 +6,10 @@ public class areaOfCircle {
         // System.out.println(a);
         System.out.println("area of cirle is : " +a);
         System.out.println(" Area of circle with radius " +r+ " is "+ a);
+        System.out.println(3,4);
+    }
+    public static int add(int a,int b){
+        return a+b;
     }
     
 }
